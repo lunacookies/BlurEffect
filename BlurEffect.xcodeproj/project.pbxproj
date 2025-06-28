@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		BD7006292E0F87B100103CE9 /* License.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = License.md; sourceTree = "<group>"; };
 		BDD885BC2E02376600EBF284 /* BlurEffect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlurEffect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -45,6 +46,7 @@
 		BDD885B32E02376600EBF284 = {
 			isa = PBXGroup;
 			children = (
+				BD7006292E0F87B100103CE9 /* License.md */,
 				BDD885BE2E02376600EBF284 /* BlurEffect */,
 				BDD885BD2E02376600EBF284 /* Products */,
 			);
